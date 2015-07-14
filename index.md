@@ -9,6 +9,8 @@ tags:
   - template
 image: 
   feature: 1.jpg
+  credit: Haufe-Lexware
+  creditlink: http://haufe-lexware.de
 published: true
 ---
 
