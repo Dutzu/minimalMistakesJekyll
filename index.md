@@ -1,6 +1,6 @@
 ---
 layout: home
-excerpt: A minimal Jekyll theme for your blog by designer Michael Rose.
+excerpt: Demo Haufe-Lexware Dev Blog
 tags: 
   - Jekyll
   - theme
